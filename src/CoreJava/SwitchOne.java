@@ -7,6 +7,7 @@ public class SwitchOne {
         int day = 1;
         switch (day){
 
+            hello
             case 1:
                 System.out.println("Sun");break;
             case 2:
